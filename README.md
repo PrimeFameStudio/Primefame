@@ -1,3 +1,4 @@
+![Prime Fame Studio Banner](repository%20image.jpg)
 # Primefame Studio
 
 Welcome to the official repository of **Primefame Studio**. This project hosts resources, analytical frameworks, and documentation focused on digital marketing, organic social media growth, and audience engagement.
