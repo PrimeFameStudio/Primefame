@@ -18,7 +18,7 @@ Please note that the resources provided in this repository are strictly designed
 
 ## Getting Started
 
-*The main analytical tools and advanced guides are currently being prepared for public release. We are updating the documentation. Please check back soon for the full setup instructions and our official platform link!*
+*The main analytical tools and advanced guides are currently being prepared for public release. We are updating the documentation. Please check back soon for the full setup instructions and our official platform https://primefamestudio.com
 
 ## Acknowledgements
 
